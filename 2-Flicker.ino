@@ -1,6 +1,6 @@
 // A sample code to control the built in LED with a variety of defined modes
 // Off, On, PWM, Flicker, Blink
-// Further details can be found at https://msraynsford.blogspot.com/2025/05/how-to-fade-led.html
+// Further details can be found at https://msraynsford.blogspot.com/2025/05/how-to-flicker-led.html
 // https://www.donteatpuzzles.com/
 
 #include <FastLED.h>
