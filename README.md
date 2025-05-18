@@ -3,6 +3,8 @@
 A selection of code samples that form the building blocks of my puzzle boxes.
 All of these code samples were made using the [Wemos/Lolin D1 development board](https://www.wemos.cc/en/latest/d1/d1_mini.html) and minimal additional hardware as required. These samples are not intended to be ESP8266 specific and should run on any arduino development board although alternate pin choices may need to be made.
 
+The description and images to go alongside this code can be found in the tutorial series on my blog https://msraynsford.blogspot.com/search/label/Tutorial
+
  [1-Blink.ino](https://github.com/msraynsford/Puzzling/blob/main/1-Blink.ino)
  
  Blink the built in LED using the FastLED Macro EVERY_N_MILLISECONDS and the digitalWrite function.
