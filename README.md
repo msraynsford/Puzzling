@@ -15,6 +15,6 @@ All of these code samples were made using the [Wemos/Lolin D1 development board]
  
  Read the value of a single digital input, monitoring to button press/release and hold count.
 
- [4-MultipleIO.ino](https://github.com/msraynsford/Puzzling/blob/main/4-MultipleIO.ino))
+ [4-MultipleIO.ino](https://github.com/msraynsford/Puzzling/blob/main/4-MultipleIO.ino)
  
  Reads an array of digital input values and uses them to control the mode for the output led.
