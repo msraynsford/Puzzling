@@ -5,12 +5,16 @@ All of these code samples were made using the [Wemos/Lolin D1 development board]
 
  [1-Blink.ino](https://github.com/msraynsford/Puzzling/blob/main/1-Blink.ino)
  
- Blink the built in LED using the FastLED Macro EVERY_N_MILLISECONDS and the digitalWrite function
+ Blink the built in LED using the FastLED Macro EVERY_N_MILLISECONDS and the digitalWrite function.
  
  [2-Flicker.ino](https://github.com/msraynsford/Puzzling/blob/main/2-Flicker.ino)
  
- Control the brightness of the built in LED using the analogueWrite function
+ Control the brightness of the built in LED using the analogueWrite function.
  
  [3-DigitalRead.ino](https://github.com/msraynsford/Puzzling/blob/main/3-DigitalRead.ino)
  
  Read the value of a single digital input, monitoring to button press/release and hold count.
+
+ [4-MultipleIO.ino](https://github.com/msraynsford/Puzzling/blob/main/4-MultipleIO.ino))
+ 
+ Reads an array of digital input values and uses them to control the mode for the output led.
