@@ -20,3 +20,7 @@ The description and images to go alongside this code can be found in the tutoria
  [4-MultipleIO.ino](https://github.com/msraynsford/Puzzling/blob/main/4-MultipleIO.ino)
  
  Reads an array of digital input values and uses them to control the mode for the output led.
+
+ [5-FadeLED.ino](https://github.com/msraynsford/Puzzling/blob/main/5-FadeLED.ino)
+
+ Implements two different methods to create a fading cycle for an LED
