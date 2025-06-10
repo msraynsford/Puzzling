@@ -24,3 +24,7 @@ The description and images to go alongside this code can be found in the tutoria
  [5-FadeLED.ino](https://github.com/msraynsford/Puzzling/blob/main/5-FadeLED.ino)
 
  Implements two different methods to create a fading cycle for an LED
+
+ [6-BinaryPuzzle.ino][https://github.com/msraynsford/Puzzling/blob/main/6-BinaryPuzzle.ino]
+
+ A simple puzzle that flashes a binary code and checks for the correct binary code response
