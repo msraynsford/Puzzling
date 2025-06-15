@@ -28,3 +28,7 @@ The description and images to go alongside this code can be found in the tutoria
  [6-BinaryPuzzle.ino](https://github.com/msraynsford/Puzzling/blob/main/6-BinaryPuzzle.ino)
 
  A simple puzzle that flashes a binary code and checks for the correct binary code response
+
+ [7-FunctionPointer.ino](https://github.com/msraynsford/Puzzling/tree/main/7-FunctionPointer)
+
+ Introduces a function pointer to switch between different puzzles within the game
