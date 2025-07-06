@@ -32,3 +32,7 @@ The description and images to go alongside this code can be found in the tutoria
  [7-FunctionPointer.ino](https://github.com/msraynsford/Puzzling/tree/main/7-FunctionPointer)
 
  Introduces a function pointer to switch between different puzzles within the game
+
+ [8-BasicServo.ino](https://github.com/msraynsford/Puzzling/blob/main/8-BasicServo.ino)
+
+ Simple angle control for a single servo
